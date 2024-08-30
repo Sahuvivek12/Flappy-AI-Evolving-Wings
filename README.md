@@ -3,8 +3,8 @@
 **Flappy AI: Evolving Wings** is a Python project that combines the classic Flappy Bird game with the NEAT (NeuroEvolution of Augmenting Topologies) algorithm. This project uses NEAT to evolve neural networks that learn to play the game autonomously, improving their performance over generations.
 
 ## Features
-![screenshot1](https://github.com/user-attachments/assets/20c94ec5-7652-4ab2-827d-3c243569d6d8)
-![screenshot2](https://github.com/user-attachments/assets/f511cae6-69ac-4bb5-9922-5c714ad0bdfd)
+![image1](https://github.com/user-attachments/assets/58a8f76d-1448-411a-a209-2bd67b142793)
+![image2](https://github.com/user-attachments/assets/b73f8131-c202-4acb-88f3-5027cf1c16a1)
 
 - **Playable Flappy Bird Game**: A functional implementation of the classic Flappy Bird game.
 - **NEAT Algorithm**: Evolutionary algorithm to train neural networks for game control.
