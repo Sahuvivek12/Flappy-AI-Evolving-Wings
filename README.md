@@ -60,7 +60,7 @@
 To start the game and begin training the AI:
 
 ```bash
-python main.py
+python Flappy_Bird.py
 ```
 
 This command initializes the game environment and the NEAT algorithm. The AI will start learning and evolving to improve its gameplay performance over successive generations.
@@ -71,13 +71,10 @@ This command initializes the game environment and the NEAT algorithm. The AI wil
 
 ## Code Overview
 
-### `main.py`
+### `Flappy_Bird.py`
 
 - **Entry Point**: Sets up the NEAT algorithm and game environment.
 - **Run Function**: Manages the NEAT population and trains the AI over a specified number of generations.
-
-### `flappy_bird.py`
-
 - **FlappyBird Class**: Handles the bird’s movement, jumping mechanics, and animation.
 - **Pipe Class**: Manages pipe placement, movement, and collision detection.
 - **Base Class**: Handles the scrolling base image and its movement.
