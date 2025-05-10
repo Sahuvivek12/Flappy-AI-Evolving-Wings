@@ -6,6 +6,11 @@
 ![image2](https://github.com/user-attachments/assets/b73f8131-c202-4acb-88f3-5027cf1c16a1)
 ![image1](https://github.com/user-attachments/assets/58a8f76d-1448-411a-a209-2bd67b142793)
 
+## Demo:
+https://github.com/user-attachments/assets/68ad7efd-50d7-43f5-8a30-6f5c047c7865
+
+
+
 
 - **Playable Flappy Bird Game**: A functional implementation of the classic Flappy Bird game.
 - **NEAT Algorithm**: Evolutionary algorithm to train neural networks for game control.
